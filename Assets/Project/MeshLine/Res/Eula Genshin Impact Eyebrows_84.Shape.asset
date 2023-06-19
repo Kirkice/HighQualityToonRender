@@ -1,0 +1,639 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4552b7ca99c84bd29505e03877bab30f, type: 3}
+  m_Name: Eula Genshin Impact Eyebrows_84.Shape
+  m_EditorClassIdentifier: 
+  Lines:
+  - Vertex1: 0
+    Vertex2: 1
+    Triangle1Vertex3: 2
+    Triangle2Vertex3: 3
+  - Vertex1: 1
+    Vertex2: 2
+    Triangle1Vertex3: 0
+    Triangle2Vertex3: -1
+  - Vertex1: 2
+    Vertex2: 0
+    Triangle1Vertex3: 1
+    Triangle2Vertex3: -1
+  - Vertex1: 0
+    Vertex2: 3
+    Triangle1Vertex3: 1
+    Triangle2Vertex3: -1
+  - Vertex1: 3
+    Vertex2: 1
+    Triangle1Vertex3: 0
+    Triangle2Vertex3: 4
+  - Vertex1: 3
+    Vertex2: 4
+    Triangle1Vertex3: 1
+    Triangle2Vertex3: 5
+  - Vertex1: 4
+    Vertex2: 1
+    Triangle1Vertex3: 3
+    Triangle2Vertex3: -1
+  - Vertex1: 3
+    Vertex2: 5
+    Triangle1Vertex3: 4
+    Triangle2Vertex3: -1
+  - Vertex1: 5
+    Vertex2: 4
+    Triangle1Vertex3: 3
+    Triangle2Vertex3: 6
+  - Vertex1: 5
+    Vertex2: 6
+    Triangle1Vertex3: 4
+    Triangle2Vertex3: 7
+  - Vertex1: 6
+    Vertex2: 4
+    Triangle1Vertex3: 5
+    Triangle2Vertex3: -1
+  - Vertex1: 7
+    Vertex2: 6
+    Triangle1Vertex3: 5
+    Triangle2Vertex3: -1
+  - Vertex1: 5
+    Vertex2: 7
+    Triangle1Vertex3: 6
+    Triangle2Vertex3: 8
+  - Vertex1: 5
+    Vertex2: 8
+    Triangle1Vertex3: 7
+    Triangle2Vertex3: -1
+  - Vertex1: 8
+    Vertex2: 7
+    Triangle1Vertex3: 5
+    Triangle2Vertex3: 9
+  - Vertex1: 9
+    Vertex2: 7
+    Triangle1Vertex3: 8
+    Triangle2Vertex3: -1
+  - Vertex1: 8
+    Vertex2: 9
+    Triangle1Vertex3: 7
+    Triangle2Vertex3: 10
+  - Vertex1: 8
+    Vertex2: 10
+    Triangle1Vertex3: 9
+    Triangle2Vertex3: -1
+  - Vertex1: 10
+    Vertex2: 9
+    Triangle1Vertex3: 8
+    Triangle2Vertex3: 11
+  - Vertex1: 11
+    Vertex2: 9
+    Triangle1Vertex3: 10
+    Triangle2Vertex3: -1
+  - Vertex1: 10
+    Vertex2: 11
+    Triangle1Vertex3: 9
+    Triangle2Vertex3: 12
+  - Vertex1: 10
+    Vertex2: 12
+    Triangle1Vertex3: 11
+    Triangle2Vertex3: -1
+  - Vertex1: 12
+    Vertex2: 11
+    Triangle1Vertex3: 10
+    Triangle2Vertex3: 13
+  - Vertex1: 13
+    Vertex2: 11
+    Triangle1Vertex3: 12
+    Triangle2Vertex3: -1
+  - Vertex1: 12
+    Vertex2: 13
+    Triangle1Vertex3: 11
+    Triangle2Vertex3: 14
+  - Vertex1: 12
+    Vertex2: 14
+    Triangle1Vertex3: 13
+    Triangle2Vertex3: -1
+  - Vertex1: 14
+    Vertex2: 13
+    Triangle1Vertex3: 12
+    Triangle2Vertex3: 15
+  - Vertex1: 14
+    Vertex2: 15
+    Triangle1Vertex3: 13
+    Triangle2Vertex3: 16
+  - Vertex1: 15
+    Vertex2: 13
+    Triangle1Vertex3: 14
+    Triangle2Vertex3: -1
+  - Vertex1: 14
+    Vertex2: 16
+    Triangle1Vertex3: 15
+    Triangle2Vertex3: -1
+  - Vertex1: 16
+    Vertex2: 15
+    Triangle1Vertex3: 14
+    Triangle2Vertex3: 17
+  - Vertex1: 16
+    Vertex2: 17
+    Triangle1Vertex3: 15
+    Triangle2Vertex3: 18
+  - Vertex1: 17
+    Vertex2: 15
+    Triangle1Vertex3: 16
+    Triangle2Vertex3: -1
+  - Vertex1: 16
+    Vertex2: 18
+    Triangle1Vertex3: 17
+    Triangle2Vertex3: -1
+  - Vertex1: 18
+    Vertex2: 17
+    Triangle1Vertex3: 16
+    Triangle2Vertex3: 19
+  - Vertex1: 18
+    Vertex2: 19
+    Triangle1Vertex3: 17
+    Triangle2Vertex3: 20
+  - Vertex1: 19
+    Vertex2: 17
+    Triangle1Vertex3: 18
+    Triangle2Vertex3: -1
+  - Vertex1: 18
+    Vertex2: 20
+    Triangle1Vertex3: 19
+    Triangle2Vertex3: -1
+  - Vertex1: 20
+    Vertex2: 19
+    Triangle1Vertex3: 18
+    Triangle2Vertex3: 21
+  - Vertex1: 20
+    Vertex2: 21
+    Triangle1Vertex3: 19
+    Triangle2Vertex3: 22
+  - Vertex1: 21
+    Vertex2: 19
+    Triangle1Vertex3: 20
+    Triangle2Vertex3: -1
+  - Vertex1: 20
+    Vertex2: 22
+    Triangle1Vertex3: 21
+    Triangle2Vertex3: -1
+  - Vertex1: 22
+    Vertex2: 21
+    Triangle1Vertex3: 20
+    Triangle2Vertex3: 23
+  - Vertex1: 22
+    Vertex2: 23
+    Triangle1Vertex3: 21
+    Triangle2Vertex3: -1
+  - Vertex1: 23
+    Vertex2: 21
+    Triangle1Vertex3: 22
+    Triangle2Vertex3: -1
+  - Vertex1: 24
+    Vertex2: 25
+    Triangle1Vertex3: 26
+    Triangle2Vertex3: -1
+  - Vertex1: 25
+    Vertex2: 26
+    Triangle1Vertex3: 24
+    Triangle2Vertex3: -1
+  - Vertex1: 26
+    Vertex2: 24
+    Triangle1Vertex3: 25
+    Triangle2Vertex3: 27
+  - Vertex1: 26
+    Vertex2: 27
+    Triangle1Vertex3: 24
+    Triangle2Vertex3: 28
+  - Vertex1: 27
+    Vertex2: 24
+    Triangle1Vertex3: 26
+    Triangle2Vertex3: -1
+  - Vertex1: 26
+    Vertex2: 28
+    Triangle1Vertex3: 27
+    Triangle2Vertex3: -1
+  - Vertex1: 28
+    Vertex2: 27
+    Triangle1Vertex3: 26
+    Triangle2Vertex3: 29
+  - Vertex1: 28
+    Vertex2: 29
+    Triangle1Vertex3: 27
+    Triangle2Vertex3: 30
+  - Vertex1: 29
+    Vertex2: 27
+    Triangle1Vertex3: 28
+    Triangle2Vertex3: -1
+  - Vertex1: 28
+    Vertex2: 30
+    Triangle1Vertex3: 29
+    Triangle2Vertex3: -1
+  - Vertex1: 30
+    Vertex2: 29
+    Triangle1Vertex3: 28
+    Triangle2Vertex3: 31
+  - Vertex1: 30
+    Vertex2: 31
+    Triangle1Vertex3: 29
+    Triangle2Vertex3: -1
+  - Vertex1: 31
+    Vertex2: 29
+    Triangle1Vertex3: 30
+    Triangle2Vertex3: 32
+  - Vertex1: 31
+    Vertex2: 32
+    Triangle1Vertex3: 29
+    Triangle2Vertex3: 33
+  - Vertex1: 32
+    Vertex2: 29
+    Triangle1Vertex3: 31
+    Triangle2Vertex3: -1
+  - Vertex1: 31
+    Vertex2: 33
+    Triangle1Vertex3: 32
+    Triangle2Vertex3: -1
+  - Vertex1: 33
+    Vertex2: 32
+    Triangle1Vertex3: 31
+    Triangle2Vertex3: 34
+  - Vertex1: 33
+    Vertex2: 34
+    Triangle1Vertex3: 32
+    Triangle2Vertex3: 35
+  - Vertex1: 34
+    Vertex2: 32
+    Triangle1Vertex3: 33
+    Triangle2Vertex3: -1
+  - Vertex1: 33
+    Vertex2: 35
+    Triangle1Vertex3: 34
+    Triangle2Vertex3: -1
+  - Vertex1: 35
+    Vertex2: 34
+    Triangle1Vertex3: 33
+    Triangle2Vertex3: 36
+  - Vertex1: 35
+    Vertex2: 36
+    Triangle1Vertex3: 34
+    Triangle2Vertex3: 37
+  - Vertex1: 36
+    Vertex2: 34
+    Triangle1Vertex3: 35
+    Triangle2Vertex3: -1
+  - Vertex1: 35
+    Vertex2: 37
+    Triangle1Vertex3: 36
+    Triangle2Vertex3: -1
+  - Vertex1: 37
+    Vertex2: 36
+    Triangle1Vertex3: 35
+    Triangle2Vertex3: 38
+  - Vertex1: 37
+    Vertex2: 38
+    Triangle1Vertex3: 36
+    Triangle2Vertex3: 39
+  - Vertex1: 38
+    Vertex2: 36
+    Triangle1Vertex3: 37
+    Triangle2Vertex3: -1
+  - Vertex1: 39
+    Vertex2: 38
+    Triangle1Vertex3: 37
+    Triangle2Vertex3: 40
+  - Vertex1: 37
+    Vertex2: 39
+    Triangle1Vertex3: 38
+    Triangle2Vertex3: -1
+  - Vertex1: 39
+    Vertex2: 40
+    Triangle1Vertex3: 38
+    Triangle2Vertex3: 41
+  - Vertex1: 40
+    Vertex2: 38
+    Triangle1Vertex3: 39
+    Triangle2Vertex3: -1
+  - Vertex1: 41
+    Vertex2: 40
+    Triangle1Vertex3: 39
+    Triangle2Vertex3: 42
+  - Vertex1: 39
+    Vertex2: 41
+    Triangle1Vertex3: 40
+    Triangle2Vertex3: -1
+  - Vertex1: 41
+    Vertex2: 42
+    Triangle1Vertex3: 40
+    Triangle2Vertex3: 43
+  - Vertex1: 42
+    Vertex2: 40
+    Triangle1Vertex3: 41
+    Triangle2Vertex3: -1
+  - Vertex1: 43
+    Vertex2: 42
+    Triangle1Vertex3: 41
+    Triangle2Vertex3: 44
+  - Vertex1: 41
+    Vertex2: 43
+    Triangle1Vertex3: 42
+    Triangle2Vertex3: -1
+  - Vertex1: 43
+    Vertex2: 44
+    Triangle1Vertex3: 42
+    Triangle2Vertex3: 45
+  - Vertex1: 44
+    Vertex2: 42
+    Triangle1Vertex3: 43
+    Triangle2Vertex3: -1
+  - Vertex1: 45
+    Vertex2: 44
+    Triangle1Vertex3: 43
+    Triangle2Vertex3: 46
+  - Vertex1: 43
+    Vertex2: 45
+    Triangle1Vertex3: 44
+    Triangle2Vertex3: -1
+  - Vertex1: 45
+    Vertex2: 46
+    Triangle1Vertex3: 44
+    Triangle2Vertex3: 47
+  - Vertex1: 46
+    Vertex2: 44
+    Triangle1Vertex3: 45
+    Triangle2Vertex3: -1
+  - Vertex1: 45
+    Vertex2: 47
+    Triangle1Vertex3: 46
+    Triangle2Vertex3: -1
+  - Vertex1: 47
+    Vertex2: 46
+    Triangle1Vertex3: 45
+    Triangle2Vertex3: -1
+  - Vertex1: 48
+    Vertex2: 49
+    Triangle1Vertex3: 50
+    Triangle2Vertex3: 51
+  - Vertex1: 49
+    Vertex2: 50
+    Triangle1Vertex3: 48
+    Triangle2Vertex3: -1
+  - Vertex1: 50
+    Vertex2: 48
+    Triangle1Vertex3: 49
+    Triangle2Vertex3: -1
+  - Vertex1: 48
+    Vertex2: 51
+    Triangle1Vertex3: 49
+    Triangle2Vertex3: -1
+  - Vertex1: 51
+    Vertex2: 49
+    Triangle1Vertex3: 48
+    Triangle2Vertex3: 52
+  - Vertex1: 51
+    Vertex2: 52
+    Triangle1Vertex3: 49
+    Triangle2Vertex3: 53
+  - Vertex1: 52
+    Vertex2: 49
+    Triangle1Vertex3: 51
+    Triangle2Vertex3: -1
+  - Vertex1: 51
+    Vertex2: 53
+    Triangle1Vertex3: 52
+    Triangle2Vertex3: -1
+  - Vertex1: 53
+    Vertex2: 52
+    Triangle1Vertex3: 51
+    Triangle2Vertex3: 54
+  - Vertex1: 53
+    Vertex2: 54
+    Triangle1Vertex3: 52
+    Triangle2Vertex3: 55
+  - Vertex1: 54
+    Vertex2: 52
+    Triangle1Vertex3: 53
+    Triangle2Vertex3: -1
+  - Vertex1: 53
+    Vertex2: 55
+    Triangle1Vertex3: 54
+    Triangle2Vertex3: -1
+  - Vertex1: 55
+    Vertex2: 54
+    Triangle1Vertex3: 53
+    Triangle2Vertex3: 56
+  - Vertex1: 55
+    Vertex2: 56
+    Triangle1Vertex3: 54
+    Triangle2Vertex3: 57
+  - Vertex1: 56
+    Vertex2: 54
+    Triangle1Vertex3: 55
+    Triangle2Vertex3: -1
+  - Vertex1: 57
+    Vertex2: 56
+    Triangle1Vertex3: 55
+    Triangle2Vertex3: 58
+  - Vertex1: 55
+    Vertex2: 57
+    Triangle1Vertex3: 56
+    Triangle2Vertex3: -1
+  - Vertex1: 57
+    Vertex2: 58
+    Triangle1Vertex3: 56
+    Triangle2Vertex3: 59
+  - Vertex1: 58
+    Vertex2: 56
+    Triangle1Vertex3: 57
+    Triangle2Vertex3: -1
+  - Vertex1: 59
+    Vertex2: 58
+    Triangle1Vertex3: 57
+    Triangle2Vertex3: 60
+  - Vertex1: 57
+    Vertex2: 59
+    Triangle1Vertex3: 58
+    Triangle2Vertex3: -1
+  - Vertex1: 59
+    Vertex2: 60
+    Triangle1Vertex3: 58
+    Triangle2Vertex3: 61
+  - Vertex1: 60
+    Vertex2: 58
+    Triangle1Vertex3: 59
+    Triangle2Vertex3: -1
+  - Vertex1: 59
+    Vertex2: 61
+    Triangle1Vertex3: 60
+    Triangle2Vertex3: 62
+  - Vertex1: 61
+    Vertex2: 60
+    Triangle1Vertex3: 59
+    Triangle2Vertex3: -1
+  - Vertex1: 59
+    Vertex2: 62
+    Triangle1Vertex3: 61
+    Triangle2Vertex3: -1
+  - Vertex1: 62
+    Vertex2: 61
+    Triangle1Vertex3: 59
+    Triangle2Vertex3: 63
+  - Vertex1: 62
+    Vertex2: 63
+    Triangle1Vertex3: 61
+    Triangle2Vertex3: 64
+  - Vertex1: 63
+    Vertex2: 61
+    Triangle1Vertex3: 62
+    Triangle2Vertex3: -1
+  - Vertex1: 62
+    Vertex2: 64
+    Triangle1Vertex3: 63
+    Triangle2Vertex3: -1
+  - Vertex1: 64
+    Vertex2: 63
+    Triangle1Vertex3: 62
+    Triangle2Vertex3: 65
+  - Vertex1: 64
+    Vertex2: 65
+    Triangle1Vertex3: 63
+    Triangle2Vertex3: -1
+  - Vertex1: 65
+    Vertex2: 63
+    Triangle1Vertex3: 64
+    Triangle2Vertex3: -1
+  - Vertex1: 66
+    Vertex2: 67
+    Triangle1Vertex3: 68
+    Triangle2Vertex3: -1
+  - Vertex1: 67
+    Vertex2: 68
+    Triangle1Vertex3: 66
+    Triangle2Vertex3: -1
+  - Vertex1: 68
+    Vertex2: 66
+    Triangle1Vertex3: 67
+    Triangle2Vertex3: 69
+  - Vertex1: 68
+    Vertex2: 69
+    Triangle1Vertex3: 66
+    Triangle2Vertex3: 70
+  - Vertex1: 69
+    Vertex2: 66
+    Triangle1Vertex3: 68
+    Triangle2Vertex3: -1
+  - Vertex1: 68
+    Vertex2: 70
+    Triangle1Vertex3: 69
+    Triangle2Vertex3: -1
+  - Vertex1: 70
+    Vertex2: 69
+    Triangle1Vertex3: 68
+    Triangle2Vertex3: 71
+  - Vertex1: 70
+    Vertex2: 71
+    Triangle1Vertex3: 69
+    Triangle2Vertex3: 72
+  - Vertex1: 71
+    Vertex2: 69
+    Triangle1Vertex3: 70
+    Triangle2Vertex3: -1
+  - Vertex1: 70
+    Vertex2: 72
+    Triangle1Vertex3: 71
+    Triangle2Vertex3: -1
+  - Vertex1: 72
+    Vertex2: 71
+    Triangle1Vertex3: 70
+    Triangle2Vertex3: 73
+  - Vertex1: 73
+    Vertex2: 71
+    Triangle1Vertex3: 72
+    Triangle2Vertex3: -1
+  - Vertex1: 72
+    Vertex2: 73
+    Triangle1Vertex3: 71
+    Triangle2Vertex3: 74
+  - Vertex1: 72
+    Vertex2: 74
+    Triangle1Vertex3: 73
+    Triangle2Vertex3: -1
+  - Vertex1: 74
+    Vertex2: 73
+    Triangle1Vertex3: 72
+    Triangle2Vertex3: 75
+  - Vertex1: 75
+    Vertex2: 73
+    Triangle1Vertex3: 74
+    Triangle2Vertex3: -1
+  - Vertex1: 74
+    Vertex2: 75
+    Triangle1Vertex3: 73
+    Triangle2Vertex3: 76
+  - Vertex1: 74
+    Vertex2: 76
+    Triangle1Vertex3: 75
+    Triangle2Vertex3: -1
+  - Vertex1: 76
+    Vertex2: 75
+    Triangle1Vertex3: 74
+    Triangle2Vertex3: 77
+  - Vertex1: 77
+    Vertex2: 75
+    Triangle1Vertex3: 76
+    Triangle2Vertex3: -1
+  - Vertex1: 76
+    Vertex2: 77
+    Triangle1Vertex3: 75
+    Triangle2Vertex3: 78
+  - Vertex1: 76
+    Vertex2: 78
+    Triangle1Vertex3: 77
+    Triangle2Vertex3: -1
+  - Vertex1: 78
+    Vertex2: 77
+    Triangle1Vertex3: 76
+    Triangle2Vertex3: 79
+  - Vertex1: 79
+    Vertex2: 77
+    Triangle1Vertex3: 78
+    Triangle2Vertex3: 80
+  - Vertex1: 78
+    Vertex2: 79
+    Triangle1Vertex3: 77
+    Triangle2Vertex3: -1
+  - Vertex1: 79
+    Vertex2: 80
+    Triangle1Vertex3: 77
+    Triangle2Vertex3: 81
+  - Vertex1: 80
+    Vertex2: 77
+    Triangle1Vertex3: 79
+    Triangle2Vertex3: -1
+  - Vertex1: 81
+    Vertex2: 80
+    Triangle1Vertex3: 79
+    Triangle2Vertex3: 82
+  - Vertex1: 79
+    Vertex2: 81
+    Triangle1Vertex3: 80
+    Triangle2Vertex3: -1
+  - Vertex1: 81
+    Vertex2: 82
+    Triangle1Vertex3: 80
+    Triangle2Vertex3: 83
+  - Vertex1: 82
+    Vertex2: 80
+    Triangle1Vertex3: 81
+    Triangle2Vertex3: -1
+  - Vertex1: 81
+    Vertex2: 83
+    Triangle1Vertex3: 82
+    Triangle2Vertex3: -1
+  - Vertex1: 83
+    Vertex2: 82
+    Triangle1Vertex3: 81
+    Triangle2Vertex3: -1
