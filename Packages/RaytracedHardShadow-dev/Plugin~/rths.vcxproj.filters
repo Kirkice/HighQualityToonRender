@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="rths">
+      <UniqueIdentifier>{d039ae94-4ce1-4932-b8b3-d9e219efd163}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rths\DXR">
+      <UniqueIdentifier>{c58d7ecc-c39c-4f87-b0ed-5475cd9b1680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rths\DXR\Shaders">
+      <UniqueIdentifier>{d212cab3-57af-4731-88ac-949a03f61c5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rths\Foundation">
+      <UniqueIdentifier>{785a4734-4a3e-4ed6-85fc-ebc17133ac6e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rths\pch.cpp">
+      <Filter>rths</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\rths.cpp">
+      <Filter>rths</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\rthsRenderer.cpp">
+      <Filter>rths</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\rthsTypes.cpp">
+      <Filter>rths</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsGfxContextDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsRendererDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsResourceTranslatorDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsTypesDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsDeformerDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\Foundation\rthsMath.cpp">
+      <Filter>rths\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\Foundation\rthsMisc.cpp">
+      <Filter>rths\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\Foundation\rthsLog.cpp">
+      <Filter>rths\Foundation</Filter>
+    </ClCompile>
+    <ClCompile Include="rths\DXR\rthsHookDXR.cpp">
+      <Filter>rths\DXR</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rths\pch.h">
+      <Filter>rths</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\rths.h">
+      <Filter>rths</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\rthsTypes.h">
+      <Filter>rths</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\rthsRenderer.h">
+      <Filter>rths</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsGfxContextDXR.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsResourceTranslatorDXR.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsTypesDXR.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsDeformerDXR.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\Foundation\rthsMath.h">
+      <Filter>rths\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\Foundation\rthsRefPtr.h">
+      <Filter>rths\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\Foundation\rthsHalf.h">
+      <Filter>rths\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\Foundation\rthsMisc.h">
+      <Filter>rths\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\Foundation\rthsLog.h">
+      <Filter>rths\Foundation</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsDXRSettings.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\rthsSettings.h">
+      <Filter>rths</Filter>
+    </ClInclude>
+    <ClInclude Include="rths\DXR\rthsHookDXR.h">
+      <Filter>rths\DXR</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="rths\DXR\Shaders\rthsShadowDXR.hlsl">
+      <Filter>rths\DXR\Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="rths\DXR\Shaders\rthsDeform.hlsl">
+      <Filter>rths\DXR\Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
